@@ -1,0 +1,98 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "email": "mrt.tuan97@gmail.com",
+      "userName": "quangtuan",
+      "address": "tho loc phuc tho ha noi",
+      "password": "123456",
+      "status": true,
+      "phone": "097260297",
+      "permission": true
+    },
+    {
+      "email": "adasas@gmail.com",
+      "userName": "sasas ",
+      "address": "",
+      "password": "qqqq",
+      "status": true,
+      "phone": "",
+      "permission": false,
+      "id": "fScZaMF"
+    }
+  ],
+  "product": [
+    {
+      "productId": "1",
+      "productName": "cam",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-688e1.appspot.com/o/images%2Fcam.jpeg?alt=media&token=303516d4-08bf-4305-820d-9a1677c031da",
+      "price": "35000",
+      "tile": "cam sanh ha giang",
+      "status": "true",
+      "disauth": "1"
+    },
+    {
+      "productId": "2",
+      "productName": "Cherry",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-688e1.appspot.com/o/images%2Fcherry.jpeg?alt=media&token=ada34c11-39db-4123-93df-17f08def4134",
+      "price": "50000",
+      "tile": "",
+      "status": "true",
+      "disauth": "1"
+    },
+    {
+      "productId": "3",
+      "productName": "Dưa lưới",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-688e1.appspot.com/o/images%2Fdualuoi.jpeg?alt=media&token=5504fe56-93f0-4c20-af14-67903b51dda1",
+      "price": "80000",
+      "tile": "",
+      "status": "true",
+      "disauth": "1"
+    },
+    {
+      "productId": "4",
+      "productName": "Kiwi Vàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-688e1.appspot.com/o/images%2FkiwiVang.jpeg?alt=media&token=65e9d121-690c-48c8-8aa9-e45770bc1eb7",
+      "price": "55000",
+      "tile": "",
+      "status": "true",
+      "disauth": "1"
+    },
+    {
+      "productId": "5",
+      "productName": "combo1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-688e1.appspot.com/o/images%2Fgio1.jpeg?alt=media&token=72bd5914-a241-4bcf-8f0b-ef0298e9e053",
+      "price": "55000",
+      "tile": "",
+      "status": "true",
+      "disauth": "2"
+    },
+    {
+      "productId": "6",
+      "productName": "combo2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-688e1.appspot.com/o/images%2Fgio3.jpeg?alt=media&token=fe9a02fc-826a-44f0-be95-245b7d5e57a6",
+      "price": "55000",
+      "tile": "",
+      "status": "true",
+      "disauth": "2"
+    },
+    {
+      "productId": "7",
+      "productName": "combo3",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-688e1.appspot.com/o/images%2Fgio2.jpeg?alt=media&token=13890969-d74a-436b-b587-ffab0c9c6cd7",
+      "price": "55000",
+      "tile": "",
+      "status": "true",
+      "disauth": "2"
+    },
+    {
+      "productId": "8",
+      "productName": "combo4",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-688e1.appspot.com/o/images%2Fgio4.jpeg?alt=media&token=16c1d589-8f2c-45e9-b81b-99b11b1f1995",
+      "price": "55000",
+      "tile": "",
+      "status": "true",
+      "disauth": "2"
+    }
+  ]
+}
